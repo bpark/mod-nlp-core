@@ -1,1 +1,1 @@
-# Vert.x wrapper around OpenNLP
+# Vert.x wrapper for OpenNLP
