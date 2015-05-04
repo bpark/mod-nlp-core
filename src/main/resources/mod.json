@@ -1,6 +1,6 @@
 {
 
-  "main":"com.github.bpark.mod.nlp.core.BootVerticle",
+  "main":"com.github.bpark.vertx.nlp.core.BootVerticle",
 
   "description":"vert.x wrapper for apache nlp",
   "licenses": ["The Apache Software License Version 2.0"],
